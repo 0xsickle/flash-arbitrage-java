@@ -28,9 +28,7 @@
   "ast": {
     "absolutePath": "project:/contracts/interfaces/CHI.sol",
     "exportedSymbols": {
-      "CHI": [
-        986
-      ]
+      "CHI": [986]
     },
     "id": 987,
     "license": "UNLICENSED",
@@ -38,12 +36,7 @@
     "nodes": [
       {
         "id": 980,
-        "literals": [
-          "solidity",
-          ">=",
-          "0.5",
-          ".0"
-        ],
+        "literals": ["solidity", ">=", "0.5", ".0"],
         "nodeType": "PragmaDirective",
         "src": "38:24:1"
       },
@@ -54,9 +47,7 @@
         "contractKind": "interface",
         "fullyImplemented": false,
         "id": 986,
-        "linearizedBaseContracts": [
-          986
-        ],
+        "linearizedBaseContracts": [986],
         "name": "CHI",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -124,21 +115,14 @@
     "attributes": {
       "absolutePath": "project:/contracts/interfaces/CHI.sol",
       "exportedSymbols": {
-        "CHI": [
-          986
-        ]
+        "CHI": [986]
       },
       "license": "UNLICENSED"
     },
     "children": [
       {
         "attributes": {
-          "literals": [
-            "solidity",
-            ">=",
-            "0.5",
-            ".0"
-          ]
+          "literals": ["solidity", ">=", "0.5", ".0"]
         },
         "id": 980,
         "name": "PragmaDirective",
@@ -147,17 +131,11 @@
       {
         "attributes": {
           "abstract": false,
-          "baseContracts": [
-            null
-          ],
-          "contractDependencies": [
-            null
-          ],
+          "baseContracts": [null],
+          "contractDependencies": [null],
           "contractKind": "interface",
           "fullyImplemented": false,
-          "linearizedBaseContracts": [
-            986
-          ],
+          "linearizedBaseContracts": [986],
           "name": "CHI",
           "scope": 987
         },
@@ -168,9 +146,7 @@
               "implemented": false,
               "isConstructor": false,
               "kind": "function",
-              "modifiers": [
-                null
-              ],
+              "modifiers": [null],
               "name": "free",
               "scope": 986,
               "stateMutability": "nonpayable",
@@ -213,9 +189,7 @@
               },
               {
                 "attributes": {
-                  "parameters": [
-                    null
-                  ]
+                  "parameters": [null]
                 },
                 "children": [],
                 "id": 984,
